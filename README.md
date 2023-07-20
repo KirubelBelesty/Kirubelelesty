@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirubel Belesty</h1>
 <h3 align="center">A passionate frontend developer from Addis Abeba,Ethiopia</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/search?rlz=1CAZKSY_enET1064&sxsrf=AB5stBiN84gCHwZ0WWdFNTMHetO36ZHhdA:1689857978764&q=animated+coding+gif&tbm=isch&sa=X&ved=2ahUKEwjA063Eq52AAxULQvEDHQR2AtMQ0pQJegQIDRAB&biw=1536&bih=714&dpr=1.25#imgrc=sbjs4ncEQM5rkM">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubelbelesty&label=Profile%20views&color=0e75b6&style=flat" alt="kirubelbelesty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirubelbelesty" alt="kirubelbelesty" /></a> </p>
